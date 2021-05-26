@@ -2,7 +2,7 @@
 
 ## Built with React,JavaScript and Express
 
-![alt text] (./FEC_demo.gif)
+![alt text] (FEC_demo.gif)
 
 Deployed Link: http://ec2-54-183-197-131.us-west-1.compute.amazonaws.com:3000/
 
